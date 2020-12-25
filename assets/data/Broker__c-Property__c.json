@@ -18,7 +18,7 @@
                             "type": "Property__c",
                             "referenceId": "Property__cRef1"
                         },
-                        "Address__c": "121 Harborwalk Drive",
+                        "Street_Address__c": "121 Harborwalk Drive",
                         "Assessed_Value__c": 373500,
                         "Baths__c": 3,
                         "Beds__c": 3,
@@ -42,7 +42,7 @@
                             "type": "Property__c",
                             "referenceId": "Property__cRef2"
                         },
-                        "Address__c": "95 Gloucester St",
+                        "Street_Address__c": "95 Gloucester St",
                         "Assessed_Value__c": 607200,
                         "Baths__c": 3,
                         "Beds__c": 3,
@@ -66,7 +66,7 @@
                             "type": "Property__c",
                             "referenceId": "Property__cRef3"
                         },
-                        "Address__c": "18 Henry St",
+                        "Street_Address__c": "18 Henry St",
                         "Assessed_Value__c": 682500,
                         "Baths__c": 3,
                         "Beds__c": 4,
@@ -106,7 +106,7 @@
                             "type": "Property__c",
                             "referenceId": "Property__cRef4"
                         },
-                        "Address__c": "145 Commonwealth Ave",
+                        "Street_Address__c": "145 Commonwealth Ave",
                         "Assessed_Value__c": 583050,
                         "Baths__c": 3,
                         "Beds__c": 4,
@@ -130,7 +130,7 @@
                             "type": "Property__c",
                             "referenceId": "Property__cRef5"
                         },
-                        "Address__c": "24 Pearl St",
+                        "Street_Address__c": "24 Pearl St",
                         "Assessed_Value__c": 1008000,
                         "Baths__c": 4,
                         "Beds__c": 5,
@@ -154,7 +154,7 @@
                             "type": "Property__c",
                             "referenceId": "Property__cRef6"
                         },
-                        "Address__c": "503 Park Drive",
+                        "Street_Address__c": "503 Park Drive",
                         "Assessed_Value__c": 546000,
                         "Baths__c": 2,
                         "Beds__c": 2,
@@ -194,7 +194,7 @@
                             "type": "Property__c",
                             "referenceId": "Property__cRef7"
                         },
-                        "Address__c": "61 West Cedar St",
+                        "Street_Address__c": "61 West Cedar St",
                         "Assessed_Value__c": 594000,
                         "Baths__c": 4,
                         "Beds__c": 5,
@@ -234,7 +234,7 @@
                             "type": "Property__c",
                             "referenceId": "Property__cRef8"
                         },
-                        "Address__c": "32 Prince st",
+                        "Street_Address__c": "32 Prince st",
                         "Assessed_Value__c": 716100,
                         "Baths__c": 4,
                         "Beds__c": 5,
@@ -274,7 +274,7 @@
                             "type": "Property__c",
                             "referenceId": "Property__cRef9"
                         },
-                        "Address__c": "211 Charles Street",
+                        "Street_Address__c": "211 Charles Street",
                         "Assessed_Value__c": 552500,
                         "Baths__c": 2,
                         "Beds__c": 3,
@@ -314,7 +314,7 @@
                             "type": "Property__c",
                             "referenceId": "Property__cRef10"
                         },
-                        "Address__c": "448 Hanover St",
+                        "Street_Address__c": "448 Hanover St",
                         "Assessed_Value__c": 536500,
                         "Baths__c": 2,
                         "Beds__c": 4,
@@ -354,7 +354,7 @@
                             "type": "Property__c",
                             "referenceId": "Property__cRef11"
                         },
-                        "Address__c": "127 Endicott St",
+                        "Street_Address__c": "127 Endicott St",
                         "Assessed_Value__c": 315000,
                         "Baths__c": 1,
                         "Beds__c": 3,
@@ -394,7 +394,7 @@
                             "type": "Property__c",
                             "referenceId": "Property__cRef12"
                         },
-                        "Address__c": "48 Brattle St",
+                        "Street_Address__c": "48 Brattle St",
                         "Assessed_Value__c": 405000,
                         "Baths__c": 4,
                         "Beds__c": 5,
